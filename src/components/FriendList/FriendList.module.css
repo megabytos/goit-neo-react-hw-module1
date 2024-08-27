@@ -1,0 +1,16 @@
+.friendsList {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.friendsList li {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #000;
+  border-radius: 5px;
+  padding: 8px;
+}

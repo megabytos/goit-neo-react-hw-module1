@@ -1,0 +1,17 @@
+.avatar {
+  margin: 0 auto 10px auto;
+}
+.title {
+  font-size: 18px;
+  font-weight: 500;
+}
+.status {
+  font-size: 14px;
+}
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
